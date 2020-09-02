@@ -94,3 +94,184 @@ http://85.132.81.184:8080/atv/index.m3u8
 http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
 #EXTINF:-1, RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="CHIQUI LISTAS M3U
+LISTA IPTV CHIQUI LISTA (YOUTUBE)
+https://www.youtube.com/channel/UCEG01MXhHVh6EfWNBvtbQ0Q
+ 
+#EXTINF:-1 group-title="CHIQUI LISTAS M3U
+LISTA IPTV CHIQUI LISTA (YOUTUBE)
+https://www.youtube.com/channel/UCEG01MXhHVh6EfWNBvtbQ0Q
+
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",A&E 
+http://usuarios.club/stream/Luis.Ramirez/kPo/734.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AXN HD" tvg-logo="" group-title="",AXN HD
+#EXTVLCOPT:http-user-agent=Lavf/57.83.100
+http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/19.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="" group-title="",AMC
+#EXTVLCOPT:http-user-agent=Lavf/57.83.100
+http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/47.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="",COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=Lavf/57.83.100
+http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/45.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="" group-title="",TNT
+#EXTVLCOPT:http-user-agent=Lavf/57.83.100
+http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/16.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ACCION HD" tvg-logo="" group-title="",ACCION HD
+#EXTVLCOPT:http-user-agent=Lavf/57.83.100
+http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/41.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="" group-title="",FOX HD
+#EXTVLCOPT:http-user-agent=Lavf/57.83.100
+http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/20.ts
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Fox Life 
+http://usuarios.club/stream/Luis.Ramirez/kPo/746.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Fox Series 
+http://usuarios.club/stream/Luis.Ramirez/kPo/745.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",FX 
+http://usuarios.club/stream/Luis.Ramirez/kPo/749.m3u8
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="TCM HD" tvg-logo="" group-title="",TCM HD
+#EXTVLCOPT:http-user-agent=Lavf/57.83.100
+http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/6.ts
+
+
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Peliculas",Cinecanal
+http://usuarios.club/stream/Luis.Ramirez/kPo/18.m3u8
+
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Peliculas",Cinemax
+http://usuarios.club/stream/Luis.Ramirez/kPo/20.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cinemax Sur
+http://usuarios.club/stream/Luis.Ramirez/kPo/739.m3u8
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Peliculas",De Película
+http://usuarios.club/stream/Luis.Ramirez/kPo/21.m3u8
+#EXTINF:0 tvg-id="TheFilmZoneHD.mx" group-title="Peliculas",Film Zone
+http://usuarios.club/stream/Luis.Ramirez/kPo/43.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Peliculas",FM Hot TV
+http://usuarios.club/stream/Luis.Ramirez/kPo/731.m3u8
+#EXTINF:0 tvg-id="FoxActionHD.mx" group-title="Peliculas",Fox Action
+http://usuarios.club/stream/Luis.Ramirez/kPo/46.m3u8
+#EXTINF:0 tvg-id="FoxCinema.mx" group-title="Peliculas",Fox Cinema
+http://usuarios.club/stream/Luis.Ramirez/kPo/47.m3u8
+#EXTINF:0 tvg-id="FoxClassics.mx" group-title="Peliculas",Fox Classics
+http://usuarios.club/stream/Luis.Ramirez/kPo/48.m3u8
+#EXTINF:0 tvg-id="FoxFamilyW.mx" group-title="Peliculas",Fox Family
+http://usuarios.club/stream/Luis.Ramirez/kPo/49.m3u8
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Peliculas",Fox Movies
+http://usuarios.club/stream/Luis.Ramirez/kPo/51.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Peliculas",Fox Movies Sur
+http://usuarios.club/stream/Luis.Ramirez/kPo/747.m3u8
+#EXTINF:0 tvg-id="Golden.mx" group-title="Peliculas",Golden
+http://usuarios.club/stream/Luis.Ramirez/kPo/57.m3u8
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Peliculas",Golden Edge
+http://usuarios.club/stream/Luis.Ramirez/kPo/58.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DOC&ROLL HD" tvg-logo="" group-title="",DOC&ROLL HD
+#EXTVLCOPT:http-user-agent=Lavf/57.83.100
+http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/5.ts
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="HOLLYWOOD" tvg-logo="" group-title="",HOLLYWOOD
+#EXTVLCOPT:http-user-agent=Lavf/57.83.100
+http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/3.ts
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="",NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=Lavf/57.83.100
+http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/25.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORIA HD" tvg-logo="" group-title="",HISTORIA HD
+#EXTVLCOPT:http-user-agent=Lavf/57.83.100
+http://51.210.33.224:8000/live/noEidakj34566nn89/o122Me33To445Qu33LosCnos4901uha8/23.ts
+
+
+#EXTINF:0 tvg-id="animal_rus" group-title="Cultura",Animal Planet
+http://usuarios.club/stream/Luis.Ramirez/kPo/3.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="Cultura",Discovery Channel
+http://usuarios.club/stream/Luis.Ramirez/kPo/22.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Cultura",Discovery Channel Sur
+http://usuarios.club/stream/Luis.Ramirez/kPo/741.m3u8
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Cultura",Discovery Civilization
+http://usuarios.club/stream/Luis.Ramirez/kPo/23.m3u8
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Cultura",Discovery H&H
+http://usuarios.club/stream/Luis.Ramirez/kPo/24.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Cultura",Discovery H&H Sur
+http://usuarios.club/stream/Luis.Ramirez/kPo/742.m3u8
+#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="Cultura",Discovery SCI
+http://usuarios.club/stream/Luis.Ramirez/kPo/26.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Cultura",Discovery Theater HD
+http://usuarios.club/stream/Luis.Ramirez/kPo/27.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Cultura",Discovery Turbo
+http://usuarios.club/stream/Luis.Ramirez/kPo/28.m3u8
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Cultura",Discovery World
+http://usuarios.club/stream/Luis.Ramirez/kPo/187.m3u8
+#EXTINF:0 tvg-id="history2-rus" group-title="Cultura",H2
+http://usuarios.club/stream/Luis.Ramirez/kPo/61.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Cultura",H2 Sur
+http://usuarios.club/stream/Luis.Ramirez/kPo/760.m3u8
+#EXTINF:0 tvg-id="history-rus" group-title="Cultura",History Channel
+http://usuarios.club/stream/Luis.Ramirez/kPo/67.m3u8
+#EXTINF:0 tvg-id="id-extra" group-title="Cultura",Investigation Discovery
+http://usuarios.club/stream/Luis.Ramirez/kPo/68.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="Cultura",Nat Geo
+http://usuarios.club/stream/Luis.Ramirez/kPo/76.m3u8
+#EXTINF:0 tvg-id="natgeowild" group-title="Cultura",Nat Geo Wild
+http://usuarios.club/stream/Luis.Ramirez/kPo/77.m3u8
+
+#EXTINF:0 tvg-id="baby-tv" group-title="Infantiles",Baby TV
+http://usuarios.club/stream/Luis.Ramirez/kPo/7.m3u8
+#EXTINF:0 tvg-id="boomerang" group-title="Infantiles",Boomerang
+http://usuarios.club/stream/Luis.Ramirez/kPo/11.m3u8
+
+#EXTINF:0 tvg-id="cartoon" group-title="Infantiles",Cartoon Network
+http://usuarios.club/stream/Luis.Ramirez/kPo/17.m3u8
+
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="Infantiles",CBeebies
+http://usuarios.club/stream/Luis.Ramirez/kPo/13.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Infantiles",Discovery Kids
+http://usuarios.club/stream/Luis.Ramirez/kPo/25.m3u8
+#EXTINF:0 tvg-id="disney" group-title="Infantiles",Disney Channel
+http://usuarios.club/stream/Luis.Ramirez/kPo/29.m3u8
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Infantiles",Disney Junior
+http://usuarios.club/stream/Luis.Ramirez/kPo/30.m3u8
+
+
+#EXTINF:0 tvg-id="disney-xd-blt" group-title="Infantiles",Disney XD
+http://usuarios.club/stream/Luis.Ramirez/kPo/31.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Infantiles",Nat Geo Kids
+http://usuarios.club/stream/Luis.Ramirez/kPo/412.m3u8
+#EXTINF:0 tvg-id="Nick2.ar" group-title="Infantiles",Nick 2
+http://usuarios.club/stream/Luis.Ramirez/kPo/78.m3u8
+
+
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Deportes",Fox Sports
+http://usuarios.club/stream/Luis.Ramirez/kPo/52.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Deportes",Fox Sports 2
+http://usuarios.club/stream/Luis.Ramirez/kPo/53.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Deportes",Fox Sports sur
+http://usuarios.club/stream/Luis.Ramirez/kPo/528.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports MX
+http://usuarios.club/stream/Luis.Ramirez/kPo/527.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports MX 
+http://usuarios.club/stream/Luis.Ramirez/kPo/748.m3u8
+#EXTINF:0 tvg-id="FoxSportsPremium.pe" group-title="Deportes",Fox Sports Premium
+http://usuarios.club/stream/Luis.Ramirez/kPo/512.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 
+http://usuarios.club/stream/Luis.Ramirez/kPo/402.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports  2
+http://usuarios.club/stream/Luis.Ramirez/kPo/410.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports 3
+http://usuarios.club/stream/Luis.Ramirez/kPo/511.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Gol Peru
+http://usuarios.club/stream/Luis.Ramirez/kPo/686.m3u8
+#EXTINF:0 tvg-id="GolTV.cl" group-title="Deportes",Gol TV
+http://usuarios.club/stream/Luis.Ramirez/kPo/287.m3u8
